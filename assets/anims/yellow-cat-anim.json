@@ -1,0 +1,76 @@
+{"frames": [
+
+{
+	"filename": "01.png",
+	"frame": {"x":0,"y":0,"w":620,"h":500},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":620,"h":500},
+	"sourceSize": {"w":620,"h":500}
+},
+{
+	"filename": "02.png",
+	"frame": {"x":620,"y":0,"w":620,"h":500},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":620,"h":500},
+	"sourceSize": {"w":620,"h":500}
+},
+{
+	"filename": "03.png",
+	"frame": {"x":1240,"y":0,"w":620,"h":500},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":620,"h":500},
+	"sourceSize": {"w":620,"h":500}
+},
+{
+	"filename": "04.png",
+	"frame": {"x":0,"y":500,"w":620,"h":500},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":620,"h":500},
+	"sourceSize": {"w":620,"h":500}
+},
+{
+	"filename": "05.png",
+	"frame": {"x":620,"y":500,"w":620,"h":500},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":620,"h":500},
+	"sourceSize": {"w":620,"h":500}
+},
+{
+	"filename": "06.png",
+	"frame": {"x":1240,"y":500,"w":620,"h":500},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":620,"h":500},
+	"sourceSize": {"w":620,"h":500}
+},
+{
+	"filename": "07.png",
+	"frame": {"x":0,"y":1000,"w":620,"h":500},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":620,"h":500},
+	"sourceSize": {"w":620,"h":500}
+},
+{
+	"filename": "08.png",
+	"frame": {"x":620,"y":1000,"w":620,"h":500},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":620,"h":500},
+	"sourceSize": {"w":620,"h":500}
+}],
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "yellow-cat-anim.png",
+	"format": "RGBA8888",
+	"size": {"w":1860,"h":1500},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:055f234c05e0cbe33bc0e94e1e2ffe77:7a773ae3219fb4e8db850accf6ec47b0:2bf8c994e525bb73eb7a89d0d9fe97e1$"
+}
+}

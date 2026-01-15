@@ -1,0 +1,76 @@
+{"frames": [
+
+{
+	"filename": "01.png",
+	"frame": {"x":0,"y":0,"w":280,"h":280},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":280,"h":280},
+	"sourceSize": {"w":280,"h":280}
+},
+{
+	"filename": "02.png",
+	"frame": {"x":280,"y":0,"w":280,"h":280},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":280,"h":280},
+	"sourceSize": {"w":280,"h":280}
+},
+{
+	"filename": "03.png",
+	"frame": {"x":560,"y":0,"w":280,"h":280},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":280,"h":280},
+	"sourceSize": {"w":280,"h":280}
+},
+{
+	"filename": "04.png",
+	"frame": {"x":0,"y":280,"w":280,"h":280},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":280,"h":280},
+	"sourceSize": {"w":280,"h":280}
+},
+{
+	"filename": "05.png",
+	"frame": {"x":280,"y":280,"w":280,"h":280},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":280,"h":280},
+	"sourceSize": {"w":280,"h":280}
+},
+{
+	"filename": "06.png",
+	"frame": {"x":560,"y":280,"w":280,"h":280},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":280,"h":280},
+	"sourceSize": {"w":280,"h":280}
+},
+{
+	"filename": "07.png",
+	"frame": {"x":0,"y":560,"w":280,"h":280},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":280,"h":280},
+	"sourceSize": {"w":280,"h":280}
+},
+{
+	"filename": "08.png",
+	"frame": {"x":280,"y":560,"w":280,"h":280},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":280,"h":280},
+	"sourceSize": {"w":280,"h":280}
+}],
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "funny-bird-anim.png",
+	"format": "RGBA8888",
+	"size": {"w":840,"h":840},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:ba30c7d14c5a0ab11241b9b9c7aaecf7:288018e739682f0e4ba25c411fd88cec:ae175e8656915428c0e45b370d9adf0a$"
+}
+}
